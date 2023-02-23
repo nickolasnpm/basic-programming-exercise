@@ -1,0 +1,15 @@
+C:\Users\IOT10\Desktop\Programming\Algorithm\Check Array Sequence\bin\Debug\net7.0\Check Array Sequence.exe
+C:\Users\IOT10\Desktop\Programming\Algorithm\Check Array Sequence\bin\Debug\net7.0\Check Array Sequence.deps.json
+C:\Users\IOT10\Desktop\Programming\Algorithm\Check Array Sequence\bin\Debug\net7.0\Check Array Sequence.runtimeconfig.json
+C:\Users\IOT10\Desktop\Programming\Algorithm\Check Array Sequence\bin\Debug\net7.0\Check Array Sequence.dll
+C:\Users\IOT10\Desktop\Programming\Algorithm\Check Array Sequence\bin\Debug\net7.0\Check Array Sequence.pdb
+C:\Users\IOT10\Desktop\Programming\Algorithm\Check Array Sequence\obj\Debug\net7.0\Check Array Sequence.csproj.AssemblyReference.cache
+C:\Users\IOT10\Desktop\Programming\Algorithm\Check Array Sequence\obj\Debug\net7.0\Check Array Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IOT10\Desktop\Programming\Algorithm\Check Array Sequence\obj\Debug\net7.0\Check Array Sequence.AssemblyInfoInputs.cache
+C:\Users\IOT10\Desktop\Programming\Algorithm\Check Array Sequence\obj\Debug\net7.0\Check Array Sequence.AssemblyInfo.cs
+C:\Users\IOT10\Desktop\Programming\Algorithm\Check Array Sequence\obj\Debug\net7.0\Check Array Sequence.csproj.CoreCompileInputs.cache
+C:\Users\IOT10\Desktop\Programming\Algorithm\Check Array Sequence\obj\Debug\net7.0\Check Array Sequence.dll
+C:\Users\IOT10\Desktop\Programming\Algorithm\Check Array Sequence\obj\Debug\net7.0\refint\Check Array Sequence.dll
+C:\Users\IOT10\Desktop\Programming\Algorithm\Check Array Sequence\obj\Debug\net7.0\Check Array Sequence.pdb
+C:\Users\IOT10\Desktop\Programming\Algorithm\Check Array Sequence\obj\Debug\net7.0\Check Array Sequence.genruntimeconfig.cache
+C:\Users\IOT10\Desktop\Programming\Algorithm\Check Array Sequence\obj\Debug\net7.0\ref\Check Array Sequence.dll
